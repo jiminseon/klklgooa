@@ -60,9 +60,8 @@
 
 ## 📊 대표 프로젝트
 
-| <a href="slide1.JPG" target="_blank"><img src="slide1.JPG" alt="RESTful API 서비스" width="100%"/></a> |
-|:-------------------------:|
-| **RESTful API 서비스 개발** <br> Spring Boot와 MariaDB를 활용한 확장 가능한 API 설계 및 구현 |
+<a href="slide1.JPG" target="_blank"><img src="slide1.JPG" alt="RESTful API 서비스" width="100%"/></a>
+**RESTful API 서비스 개발** <br> Spring Boot와 MariaDB를 활용한 확장 가능한 API 설계 및 구현
 <br/>
 
 ## 🌐 Connect with me
