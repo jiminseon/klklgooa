@@ -62,11 +62,9 @@
 
 ### 대표 프로젝트
 
+| <a href="slide1.JPG" target="_blank"><img src="slide1.JPG" alt="RESTful API 서비스" width="100%"/></a> | <a href="https://via.placeholder.com/400x250?text=실시간+채팅+애플리케이션" target="_blank"><img src="https://via.placeholder.com/400x250?text=실시간+채팅+애플리케이션" alt="실시간 채팅 애플리케이션" width="100%"/></a> |
 |:-------------------------:|:-------------------------:|
-| <img src="slide1.JPG" alt="RESTful API 서비스" width="100%"/> | <img src="https://via.placeholder.com/400x250?text=실시간+채팅+애플리케이션" alt="실시간 채팅 애플리케이션" width="100%"/> |
-| **RESTful API 서비스 개발** |
-| Spring Boot와 MariaDB를 활용한 확장 가능한 API 설계 및 구현 | WebSocket과 STOMP를 활용한 실시간 통신 구현 |
-
+| **RESTful API 서비스 개발** <br> Spring Boot와 MariaDB를 활용한 확장 가능한 API 설계 및 구현 | **실시간 채팅 애플리케이션** <br> WebSocket과 STOMP를 활용한 실시간 통신 구현 |
 <br/>
 
 ## 🌐 Connect with me
