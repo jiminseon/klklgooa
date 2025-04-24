@@ -3,12 +3,12 @@
 ## 🚀 About Me
 
 - 🌱 웹 개발 풀스택 및 클라우드를 학습중이에요
-- 💼 스프링 기반 백엔드 개발을 해왔어요
+- 💼 Spring 백엔드 개발을 해왔어요
 - 📚 MySQL, API, Java 등 다양한 프로그래밍 언어와 기술을 숙련했습니다
 - 💡 RestAPI와 MariaDB, MongoDB를 활용하여 다양한 프로젝트를 성공적으로 수행했습니다
-- 🔍 항상 새로운 기술에 대한 호기심을 가지고 공부하며 더 나은 솔루션을 찾아내는 능력을 가지고 있습니다
+- 🔍 항상 새로운 기술에 대한 호기심을 가지며 더 나은 솔루션을 찾아내는 능력을 가지고 있습니다
 - 🎯 주어진 업무에 몰입하여 최선을 다하고자 합니다
-- 👥 꼼꼼함을 기반으로 세심한 배려를 하며 팀원들과 협력하여 업무 효율을 높이는 데 주력합니다
+- 👥 꼼꼼함을 기반으로 팀원들과 협력하여 업무 효율을 높이는 데 주력합니다
 
 <br/>
 
@@ -61,7 +61,6 @@
 ## 📊 대표 프로젝트
 
 <a href="slide1.JPG" target="_blank"><img src="slide1.JPG" alt="RESTful API 서비스" width="100%"/></a>
-**RESTful API 서비스 개발** <br> Spring Boot와 MariaDB를 활용한 확장 가능한 API 설계 및 구현
 <br/>
 
 ## 🌐 Connect with me
@@ -69,17 +68,14 @@
   <a href="https://github.com/klklgooa" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:klklgooa@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
 <br/>
 
-> "항상 새로운 기술에 대한 호기심을 가지고, 더 나은 솔루션을 찾아내는 것이 제 개발 철학입니다."
+> "몰입과 몰두의 가치를 추구하며 개발합니다."
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
