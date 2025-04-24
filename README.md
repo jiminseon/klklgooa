@@ -64,7 +64,7 @@
 
 | 프로젝트 1 | 프로젝트 2 |
 |:-------------------------:|:-------------------------:|
-| <img src="./slide1.jpg" alt="RESTful API 서비스" width="100%"/> | <img src="https://via.placeholder.com/400x250?text=실시간+채팅+애플리케이션" alt="실시간 채팅 애플리케이션" width="100%"/> |
+| <img src="./klklgooa/slide1.jpg" alt="RESTful API 서비스" width="100%"/> | <img src="https://via.placeholder.com/400x250?text=실시간+채팅+애플리케이션" alt="실시간 채팅 애플리케이션" width="100%"/> |
 | **RESTful API 서비스 개발** | **실시간 채팅 애플리케이션** |
 | Spring Boot와 MariaDB를 활용한 확장 가능한 API 설계 및 구현 | WebSocket과 STOMP를 활용한 실시간 통신 구현 |
 
