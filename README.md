@@ -2,7 +2,6 @@
 
 ## 🚀 About Me
 
-- 🔭 저의 소개 페이지 링크입니다: [포트폴리오](https://klklgooa.github.io/klklgooa)
 - 🌱 웹 개발 풀스택 및 클라우드를 학습중이에요
 - 💼 스프링 기반 백엔드 개발을 해왔어요
 - 📚 MySQL, API, Java 등 다양한 프로그래밍 언어와 기술을 숙련했습니다
@@ -65,14 +64,9 @@
 
 | 프로젝트 1 | 프로젝트 2 |
 |:-------------------------:|:-------------------------:|
-| <img src="https://via.placeholder.com/400x250?text=RESTful+API+서비스" alt="RESTful API 서비스" width="100%"/> | <img src="https://via.placeholder.com/400x250?text=실시간+채팅+애플리케이션" alt="실시간 채팅 애플리케이션" width="100%"/> |
+| <img src="./slide1.jpg" alt="RESTful API 서비스" width="100%"/> | <img src="https://via.placeholder.com/400x250?text=실시간+채팅+애플리케이션" alt="실시간 채팅 애플리케이션" width="100%"/> |
 | **RESTful API 서비스 개발** | **실시간 채팅 애플리케이션** |
 | Spring Boot와 MariaDB를 활용한 확장 가능한 API 설계 및 구현 | WebSocket과 STOMP를 활용한 실시간 통신 구현 |
-
-**더 많은 프로젝트:**
-- [크로스 플랫폼 모바일 앱](https://github.com/klklgooa/mobile-app)
-- [데이터 시각화 대시보드](https://github.com/klklgooa/data-dashboard)
-- [전체 프로젝트 보기](https://github.com/klklgooa?tab=repositories)
 
 <br/>
 
