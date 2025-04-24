@@ -1,7 +1,5 @@
 # 안녕하세요, 풀스택 개발자 황인찬입니다 👨‍💻
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fklklgooa&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=방문자&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ## 🚀 About Me
 
 - 🔭 저의 소개 페이지 링크입니다: [포트폴리오](https://klklgooa.github.io/klklgooa)
@@ -59,103 +57,63 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
-### AI/ML
-<div align="left">
-  <img src="https://img.shields.io/badge/koBERT-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="koBERT" />
-  <img src="https://img.shields.io/badge/koELECTRA-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="koELECTRA" />
-  <img src="https://img.shields.io/badge/AIHub-005571?style=for-the-badge&logo=aidata&logoColor=white" alt="AI Hub" />
-</div>
-
-### 문서 작성
-<div align="left">
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint" />
-  <img src="https://img.shields.io/badge/Hwp-005571?style=for-the-badge&logo=hancom&logoColor=white" alt="Hwp" />
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word" />
-</div>
-
 <br/>
 
 ## 📊 프로젝트 갤러리
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://via.placeholder.com/500x300?text=RestAPI+프로젝트" alt="RestAPI 프로젝트" width="100%"/>
-        <p align="center">
-          <strong>RESTful API 서비스 개발</strong><br>
-          Spring Boot와 MariaDB를 활용한 확장 가능한 API 설계 및 구현
-        </p>
-      </td>
-      <td width="50%">
-        <img src="https://via.placeholder.com/500x300?text=채팅+애플리케이션" alt="채팅 애플리케이션" width="100%"/>
-        <p align="center">
-          <strong>실시간 채팅 애플리케이션</strong><br>
-          WebSocket과 STOMP를 활용한 실시간 통신 구현
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <img src="https://via.placeholder.com/500x300?text=AI+자연어처리" alt="AI 자연어처리" width="100%"/>
-        <p align="center">
-          <strong>텍스트 분석 AI 서비스</strong><br>
-          koBERT와 koELECTRA 모델을 활용한 한국어 자연어 처리
-        </p>
-      </td>
-      <td width="50%">
-        <img src="https://via.placeholder.com/500x300?text=모바일+앱" alt="모바일 앱" width="100%"/>
-        <p align="center">
-          <strong>크로스 플랫폼 모바일 앱</strong><br>
-          Flutter를 이용한 iOS/Android 통합 애플리케이션 개발
-        </p>
-      </td>
-    </tr>
-  </table>
+  <!-- 프로젝트 캐러셀 -->
+  <div class="carousel">
+    <!-- 프로젝트 1 -->
+    <div class="carousel-item active">
+      <img src="https://via.placeholder.com/800x400?text=RESTful+API+서비스" alt="RESTful API 서비스" width="100%"/>
+      <h3>RESTful API 서비스 개발</h3>
+      <p>Spring Boot와 MariaDB를 활용한 확장 가능한 API 설계 및 구현</p>
+    </div>
+    
+    <!-- 프로젝트 2 -->
+    <div class="carousel-item">
+      <img src="https://via.placeholder.com/800x400?text=실시간+채팅+애플리케이션" alt="실시간 채팅 애플리케이션" width="100%"/>
+      <h3>실시간 채팅 애플리케이션</h3>
+      <p>WebSocket과 STOMP를 활용한 실시간 통신 구현</p>
+    </div>
+    
+    <!-- 프로젝트 3 (옆으로 넘기면 보임) -->
+    <div class="carousel-item">
+      <img src="https://via.placeholder.com/800x400?text=크로스+플랫폼+모바일+앱" alt="크로스 플랫폼 모바일 앱" width="100%"/>
+      <h3>크로스 플랫폼 모바일 앱</h3>
+      <p>Flutter를 이용한 iOS/Android 통합 애플리케이션 개발</p>
+    </div>
+    
+    <!-- 프로젝트 4 (옆으로 넘기면 보임) -->
+    <div class="carousel-item">
+      <img src="https://via.placeholder.com/800x400?text=데이터+시각화+대시보드" alt="데이터 시각화 대시보드" width="100%"/>
+      <h3>데이터 시각화 대시보드</h3>
+      <p>React와 차트 라이브러리를 활용한 인터랙티브 데이터 시각화</p>
+    </div>
+  </div>
+  
+  <!-- 캐러셀 네비게이션 -->
+  <div class="carousel-nav">
+    <span class="prev">◀ 이전</span>
+    <span class="dots">
+      <span class="dot active"></span>
+      <span class="dot"></span>
+      <span class="dot"></span>
+      <span class="dot"></span>
+    </span>
+    <span class="next">다음 ▶</span>
+  </div>
 </div>
 
-<br/>
-
-## 🔄 업무 프로세스
-
-```mermaid
-graph LR
-    A[요구사항 분석] --> B[설계서 작성]
-    B --> C[개발 및 구현]
-    C --> D[테스트]
-    D --> E[문서화]
-    E --> F[배포]
-    F --> G[유지보수]
-    G -.-> A
-```
-
-<br/>
-
-## 🌐 Connect with me
-<div align="center">
-  <a href="https://github.com/klklgooa" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
-<br/>
-
-## 📝 최근 블로그 포스트
-- [Spring Security를 활용한 인증 시스템 구축하기](https://link-to-your-blog)
-- [MongoDB와 Spring Boot 연동 가이드](https://link-to-your-blog)
-- [Flutter로 크로스 플랫폼 앱 개발하기](https://link-to-your-blog)
-- [koELECTRA를 활용한 감성분석 구현](https://link-to-your-blog)
-
-<br/>
-
-> "항상 새로운 기술에 대한 호기심을 가지고, 더 나은 솔루션을 찾아내는 것이 제 개발 철학입니다."
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-</div>
+<style>
+  .carousel {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .carousel-item {
+    display: none;
+    padding: 20px;
+    text-align:
