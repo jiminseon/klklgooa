@@ -1,7 +1,7 @@
 ### **<div align="center">안녕하세요 개발자 황인찬입니다.</div>**  
   
 
-- 🔭 저의 소개 페이지 링크입니다. https://klklgooa.github.io/  
+- 🔭 저의 소개 페이지 링크입니다. https://klklgooa.github.io/klklgooa  
   
 
 - 🌱 웹 개발 풀스택 및 클라우드를 학습중이에요   
