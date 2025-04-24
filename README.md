@@ -61,59 +61,38 @@
 
 ## 📊 프로젝트 갤러리
 
+### 대표 프로젝트
+
+| 프로젝트 1 | 프로젝트 2 |
+|:-------------------------:|:-------------------------:|
+| <img src="https://via.placeholder.com/400x250?text=RESTful+API+서비스" alt="RESTful API 서비스" width="100%"/> | <img src="https://via.placeholder.com/400x250?text=실시간+채팅+애플리케이션" alt="실시간 채팅 애플리케이션" width="100%"/> |
+| **RESTful API 서비스 개발** | **실시간 채팅 애플리케이션** |
+| Spring Boot와 MariaDB를 활용한 확장 가능한 API 설계 및 구현 | WebSocket과 STOMP를 활용한 실시간 통신 구현 |
+
+**더 많은 프로젝트:**
+- [크로스 플랫폼 모바일 앱](https://github.com/klklgooa/mobile-app)
+- [데이터 시각화 대시보드](https://github.com/klklgooa/data-dashboard)
+- [전체 프로젝트 보기](https://github.com/klklgooa?tab=repositories)
+
+<br/>
+
+## 🌐 Connect with me
 <div align="center">
-  <!-- 프로젝트 캐러셀 -->
-  <div class="carousel">
-    <!-- 프로젝트 1 -->
-    <div class="carousel-item active">
-      <img src="https://via.placeholder.com/800x400?text=RESTful+API+서비스" alt="RESTful API 서비스" width="100%"/>
-      <h3>RESTful API 서비스 개발</h3>
-      <p>Spring Boot와 MariaDB를 활용한 확장 가능한 API 설계 및 구현</p>
-    </div>
-    
-    <!-- 프로젝트 2 -->
-    <div class="carousel-item">
-      <img src="https://via.placeholder.com/800x400?text=실시간+채팅+애플리케이션" alt="실시간 채팅 애플리케이션" width="100%"/>
-      <h3>실시간 채팅 애플리케이션</h3>
-      <p>WebSocket과 STOMP를 활용한 실시간 통신 구현</p>
-    </div>
-    
-    <!-- 프로젝트 3 (옆으로 넘기면 보임) -->
-    <div class="carousel-item">
-      <img src="https://via.placeholder.com/800x400?text=크로스+플랫폼+모바일+앱" alt="크로스 플랫폼 모바일 앱" width="100%"/>
-      <h3>크로스 플랫폼 모바일 앱</h3>
-      <p>Flutter를 이용한 iOS/Android 통합 애플리케이션 개발</p>
-    </div>
-    
-    <!-- 프로젝트 4 (옆으로 넘기면 보임) -->
-    <div class="carousel-item">
-      <img src="https://via.placeholder.com/800x400?text=데이터+시각화+대시보드" alt="데이터 시각화 대시보드" width="100%"/>
-      <h3>데이터 시각화 대시보드</h3>
-      <p>React와 차트 라이브러리를 활용한 인터랙티브 데이터 시각화</p>
-    </div>
-  </div>
-  
-  <!-- 캐러셀 네비게이션 -->
-  <div class="carousel-nav">
-    <span class="prev">◀ 이전</span>
-    <span class="dots">
-      <span class="dot active"></span>
-      <span class="dot"></span>
-      <span class="dot"></span>
-      <span class="dot"></span>
-    </span>
-    <span class="next">다음 ▶</span>
-  </div>
+  <a href="https://github.com/klklgooa" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
-<style>
-  .carousel {
-    position: relative;
-    width: 100%;
-    overflow: hidden;
-  }
-  
-  .carousel-item {
-    display: none;
-    padding: 20px;
-    text-align:
+<br/>
+
+> "항상 새로운 기술에 대한 호기심을 가지고, 더 나은 솔루션을 찾아내는 것이 제 개발 철학입니다."
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
