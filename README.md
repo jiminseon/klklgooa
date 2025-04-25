@@ -1,5 +1,9 @@
 # 안녕하세요, 풀스택 개발자 황인찬입니다 👨‍💻
 
+"몰입과 몰두의 가치를 추구하며 개발합니다."
+
+<br/>
+
 ## 🚀 About Me
 
 - 🌱 웹 개발 풀스택 및 클라우드를 학습중이에요
@@ -74,8 +78,6 @@
 </div>
 
 <br/>
-
-> "몰입과 몰두의 가치를 추구하며 개발합니다."
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
