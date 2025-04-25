@@ -1,3 +1,6 @@
+<!-- 헤더 -->
+![slice](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25)
+
 # 안녕하세요, 풀스택 개발자 황인찬입니다 👨‍💻
 
 > "몰입과 몰두의 가치를 추구하며 개발합니다."
